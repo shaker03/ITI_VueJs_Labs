@@ -1,4 +1,4 @@
-# lab-two
+# lab3
 
 ## Project setup
 ```
